@@ -1,5 +1,5 @@
 /*
-Task:
+❓Description::
 The depth of an integer n is defined to be how many multiples of n it is necessary to compute before all 10 digits have appeared at least once in some multiple.
 
 example:
@@ -20,7 +20,7 @@ Multiple         value         digits     comment
 Looking at the above table under digits column you can find all the digits from 0 to 9, Hence it required 9 multiples of 42 to get all the digits. So the depth of 42 is 9. Write a function named computeDepth which computes the depth of its integer argument.Only positive numbers greater than zero will be passed as an input.
 */
 
-// Answer:
+//  !Solutions
 
 function computeDepth (x){
     let arr=[];

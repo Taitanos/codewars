@@ -1,5 +1,5 @@
 /*
-Task:
+❓Description:
 Suppose you have 4 numbers: 0, 9, 6, 4 and 3 strings composed with them:
 
 s1 = "6900690040"
@@ -25,7 +25,7 @@ Notes
 You can see other examples in the "Sample tests".
 */
 
-// Answer
+//  !Solutions
 
 function posAverage(s) {
     let com=0;
